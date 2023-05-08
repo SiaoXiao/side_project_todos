@@ -1,7 +1,28 @@
-# Vue 3 + Vite
+# Todos &middot; ![npm version](https://img.shields.io/badge/npm-v8.15.0-blue) ![vue version](https://img.shields.io/badge/vue-v3.2.47-green)  ![vite version](https://img.shields.io/badge/vite-v4.3.2-yellow) ![tailwindcss version](https://img.shields.io/badge/tailwindcss-v3.3.2-blue)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Description
+
+<font color=DarkBlue>描述專案</font>
+
+這是文字中的<font color="red">紅色</font>字體。
+
+
+## 🚀 Features
+
+- The page is developed with Vue.js framework.
+- The page is use Tailwind CSS framework.
+- Build tool use Vite.
+- There is no database required.
+
+
+## 📦 Setup & Development Server
+
+1. Run `npm i` or `npm install` to install the Node.js dependencies.
+2. Run `npm run dev` to run server. Server is listening on localhost:3000.
+3. Open `http://localhost:3000/` in your browser.
+
+
+![This is the demo page](./demopage.png)
+
